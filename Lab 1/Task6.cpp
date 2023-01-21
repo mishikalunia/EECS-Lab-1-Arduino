@@ -1,5 +1,4 @@
-//Design a traffic signal using Arduino so that the first led glows for 15 seconds and the second
-LED glows for 10 second
+//Design a traffic signal using Arduino so that the first led glows for 15 seconds and the second LED glows for 10 second
 
 void setup() {
 // initialize digital pin LED_BUILTIN as an output.
