@@ -1,4 +1,4 @@
-\\Blink an external LED
+//Blink an external LED
 
 void setup()
 {
