@@ -1,5 +1,4 @@
-//Design the Arduino Circuit to measure the temperature by using temperature sensor (LM35) and
-blink external LED when the temperature > 30°C
+//Design the Arduino Circuit to measure the temperature by using temperature sensor (LM35) and blink external LED when the temperature > 30°C
 
 const int hot = 30;
 
