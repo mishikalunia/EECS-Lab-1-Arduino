@@ -38,9 +38,7 @@ void loop(){
     int dig1 = (tempint - dig1)/ 10;
     num = dig1;
     
-    if(num == 0)
-
-    {
+    if(num == 0){
         digitalWrite(2, 0);
         digitalWrite(3, 0);
         digitalWrite(4, 0);
