@@ -1,5 +1,4 @@
-//Design the Arduino Circuit to measure the temperature by using a temperature sensor (LM35)
-such that for temperature > 30 °C yellow led will glow and for temperature < 30 °C red led will glow
+//Design the Arduino Circuit to measure the temperature by using a temperature sensor (LM35) such that for temperature > 30 °C yellow led will glow and for temperature < 30 °C red led will glow
 
 const int hot = 31;
 const int cold = 30;
